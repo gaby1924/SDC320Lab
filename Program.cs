@@ -5,9 +5,7 @@ Assignment: SDC320 LAB PROJECT
 Description: this is the main program file for the Rolodex/Contact
 Management application. This file contains the main program logic
 for adding, updating, removing, and displaying contacts.*/
-/*-------------------------------
-DISPLAY MENU AND GET USER CHOICE
--------------------------------*/
+//DISPLAY MENU AND GET USER CHOICE
 Menu menu = new Menu();
 
 bool running = true;
@@ -16,7 +14,9 @@ while (running)
     menu.DisplayMenu();
     int choice = menu.GetUserChoice();
     switch (choice)
-    { //SWITCH CASE START, PLACEHOLDERS FOR MENU FUNCTIONALITY
+    { //SWITCH CASE START
+    //THESE ARE PLACEHOLDERS FOR THE TIME BEING
+    //I WILL ADD THE CORRECT LOGIC FOR EACH MENU OPTION IN THE COMING WEEKS
         case 1:
             Console.WriteLine("You selected to add a new contact.");
             break;
