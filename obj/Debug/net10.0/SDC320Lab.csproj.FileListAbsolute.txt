@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\SDC320Lab\bin\Debug\net10.0\SDC320Lab.exe
+C:\Users\gabri\Documents\SDC320Lab\bin\Debug\net10.0\SDC320Lab.deps.json
+C:\Users\gabri\Documents\SDC320Lab\bin\Debug\net10.0\SDC320Lab.runtimeconfig.json
+C:\Users\gabri\Documents\SDC320Lab\bin\Debug\net10.0\SDC320Lab.dll
+C:\Users\gabri\Documents\SDC320Lab\bin\Debug\net10.0\SDC320Lab.pdb
+C:\Users\gabri\Documents\SDC320Lab\obj\Debug\net10.0\SDC320Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\SDC320Lab\obj\Debug\net10.0\SDC320Lab.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\SDC320Lab\obj\Debug\net10.0\SDC320Lab.AssemblyInfo.cs
+C:\Users\gabri\Documents\SDC320Lab\obj\Debug\net10.0\SDC320Lab.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\SDC320Lab\obj\Debug\net10.0\SDC320Lab.sourcelink.json
+C:\Users\gabri\Documents\SDC320Lab\obj\Debug\net10.0\SDC320Lab.dll
+C:\Users\gabri\Documents\SDC320Lab\obj\Debug\net10.0\refint\SDC320Lab.dll
+C:\Users\gabri\Documents\SDC320Lab\obj\Debug\net10.0\SDC320Lab.pdb
+C:\Users\gabri\Documents\SDC320Lab\obj\Debug\net10.0\SDC320Lab.genruntimeconfig.cache
+C:\Users\gabri\Documents\SDC320Lab\obj\Debug\net10.0\ref\SDC320Lab.dll
